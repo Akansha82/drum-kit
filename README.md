@@ -27,7 +27,7 @@ This project is a part of my learning journey through Angela Yu's Web Developmen
 
 ### Demo
 
-You can try the live demo [here](https://your-live-demo-link.com).
+You can try the live demo [here](https://akansha82.github.io/drum-kit/).
 
 ## Usage
 
